@@ -10,7 +10,7 @@ This is Reimagined IV. A Complete Reimagining of The Legendary Grand Theft Auto:
 It Consists of The Following Mods:
 
 
-Fusion Fix - https://github.com/ThirteenAG/WidescreenFixesPack
+Fusion Fix - [https://github.com/ThirteenAG/WidescreenFixesPack](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix)
 
 
 Project Lights - In Dayl's Discord Server
