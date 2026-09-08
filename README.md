@@ -17,6 +17,6 @@ Various Fixes - https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes
 *INSTALLATION*
 1. You Must Have a "Legal" Copy of Grand Theft Auto: IV - The Complete Edition
 2. The Version Must be 1.2.0.59
-3. Open and Extract The Reimagined IV .zip file
-4. Drag and Drop Everything inside the folder named "Files" into your GTA IV Install folder
+3. Open and Extract both the Reimagined.IV.-.1.rar and Reimagined.IV.-.2.rar files
+4. Drag and Drop Everything inside the folder named "Files" in both .rar files into your GTA IV Install folder
 5. Enjoy!
