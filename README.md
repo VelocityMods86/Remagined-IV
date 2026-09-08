@@ -1,12 +1,30 @@
 <img width="1920" height="1080" alt="Slide 1d6_9 - 1" src="https://github.com/user-attachments/assets/506fab5a-c7ff-4113-a7d0-3838b0b5ee9f" />
+
+
 This is Reimagined IV. A Complete Reimagining of The Legendary Grand Theft Auto: IV - The Complete Edition
+
+
 *NOTE* THIS IS A MODPACK
+
+
 It Consists of The Following Mods:
+
+
 Fusion Fix - https://github.com/ThirteenAG/WidescreenFixesPack
+
+
 Project Lights - In Dayl's Discord Server
+
+
 Volumetric Lights - https://github.com/RecklessGlue540/VolumetricLights
+
+
 Various Fixes - https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes
+
+
  **SCREENSHOTS** 
+
+ 
 <img width="1920" height="1080" alt="GTAIV 2026-09-08 19-12-19" src="https://github.com/user-attachments/assets/7e4f0438-b6ef-4b95-af99-f73627323d55" />
 <img width="1920" height="1080" alt="GTAIV 2026-09-08 19-11-50" src="https://github.com/user-attachments/assets/cd8b4c49-7961-4b3f-a47a-17c5a1198dc9" />
 <img width="1920" height="1080" alt="GTAIV 2026-09-06 18-13-57" src="https://github.com/user-attachments/assets/dd07b995-b0bf-4cd6-bfb5-9042e52bb6e5" />
