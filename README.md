@@ -6,7 +6,7 @@ Fusion Fix - https://github.com/ThirteenAG/WidescreenFixesPack
 Project Lights - In Dayl's Discord Server
 Volumetric Lights - https://github.com/RecklessGlue540/VolumetricLights
 Various Fixes - https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes
-*SCREENSHOTS*
+**SCREENSHOTS**
 <img width="1920" height="1080" alt="GTAIV 2026-09-08 19-12-19" src="https://github.com/user-attachments/assets/7e4f0438-b6ef-4b95-af99-f73627323d55" />
 <img width="1920" height="1080" alt="GTAIV 2026-09-08 19-11-50" src="https://github.com/user-attachments/assets/cd8b4c49-7961-4b3f-a47a-17c5a1198dc9" />
 <img width="1920" height="1080" alt="GTAIV 2026-09-06 18-13-57" src="https://github.com/user-attachments/assets/dd07b995-b0bf-4cd6-bfb5-9042e52bb6e5" />
@@ -14,7 +14,7 @@ Various Fixes - https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes
 <img width="1920" height="1080" alt="GTAIV 2026-09-06 18-06-27" src="https://github.com/user-attachments/assets/da92e8d3-5cad-4612-bf26-cdefc50c6645" />
 <img width="1920" height="1080" alt="GTAIV 2026-09-06 05-07-04" src="https://github.com/user-attachments/assets/057cd1b7-d29a-41b1-8a72-3a32b75ed080" />
 
-*INSTALLATION*
+**INSTALLATION**
 1. You Must Have a "Legal" Copy of Grand Theft Auto: IV - The Complete Edition
 2. The Version Must be 1.2.0.59
 3. Open and Extract both the Reimagined.IV.-.1.rar and Reimagined.IV.-.2.rar files
